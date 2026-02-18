@@ -53,7 +53,7 @@ Workflow:
 
 - `.github/workflows/deploy.yml`
 
-Push auf `main` baut mit passendem `--base=/REPO_NAME/` und deployt nach Pages.
+Push auf `main` baut mit passendem `--base=/REPO_NAME/` und deployt nach Pages. jaja
 
 ## Attribution
 
